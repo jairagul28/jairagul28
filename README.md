@@ -110,13 +110,11 @@ CRUD-based library management system for inventory and issue/return tracking.
 
 ---
 
-## 🏆 GitHub Trophies
+### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JaiRagulD&theme=tokyonight&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JaiRagulD&theme=algolia&no-frame=true&column=4" />
 </p>
-
----
 
 ## 🌐 Connect With Me
 
