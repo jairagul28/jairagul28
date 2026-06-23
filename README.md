@@ -92,28 +92,6 @@
 
 ---
 
-## 💻 Coding Profiles
-
-<p align="center">
-  <a href="(https://github.com/jairagul28)">
-    <img src="https://skillicons.dev/icons?i=github" width="50" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/jai-ragul-57067b2a3/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
-  </a>
-
-  <a href="https://jai-ragul.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=vercel" width="50" />
-  </a>
-
-  <a href="mailto:jairaguldhanapal@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50" />
-  </a>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
