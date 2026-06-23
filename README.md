@@ -1,21 +1,29 @@
-## 🚀 Current Focus
+<h1 align="center">Hi 👋, I'm Jai Ragul</h1>
+<h3 align="center">Web Developer | MERN Stack Developer | Software Tester</h3>
 
-```javascript
-const jaiRagul = {
-    role: "Web Developer & Software Tester",
-    education: "B.E CSE @ NSCET",
-    cgpa: "8.1",
-    currentlyLearning: ["Advanced MERN Stack", "Software Testing"],
-    interests: [
-        "Full Stack Development",
-        "Web Applications",
-        "Quality Assurance",
-        "System Design"
-    ],
-    openTo: ["Internships", "Collaborations", "Open Source"]
-};
-```
+<p align="center">
+  <a href="https://github.com/JaiRagulD">
+    <img src="https://komarev.com/ghpvc/?username=JaiRagulD&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
 
+---
+
+## 🚀 About Me
+
+💻 Passionate Web Developer and Software Tester
+
+🎓 B.E Computer Science Engineering @ NSCET, Theni
+
+📈 Current CGPA: **8.1**
+
+🌱 Currently learning **Advanced MERN Stack & Software Testing**
+
+🔍 Interested in **Full Stack Development, Testing, and Software Quality Assurance**
+
+⚡ I enjoy building scalable web applications and ensuring software reliability through testing.
+
+---
 ---
 
 ## 🧰 Tech Toolbox
@@ -87,7 +95,7 @@ const jaiRagul = {
 ## 💻 Coding Profiles
 
 <p align="center">
-  <a href="https://github.com/JaiRagulD">
+  <a href="(https://github.com/jairagul28)">
     <img src="https://skillicons.dev/icons?i=github" width="50" />
   </a>
   
