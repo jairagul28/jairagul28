@@ -1,5 +1,16 @@
-Jai Ragul D
+Hi, I'm Jai Ragul D
 Web Developer · Software Tester
+
+A passionate developer focused on building responsive web applications and improving software quality through clean development practices and manual testing.
+
+About Me
+Pursuing B.E. Computer Science at NSCET, Theni.
+
+Expected graduation: 2027.
+
+Current CGPA: 8.1.
+
+Interested in full-stack development, testing, and building user-friendly software.
 
 Contact
 Phone: +91-9043624840
@@ -30,7 +41,13 @@ Web Development Intern
 LITZ TECH, Coimbatore
 Jul 2025
 
-Worked on responsive UI development using HTML, CSS, and JavaScript. Contributed to React.js dashboard features, optimised performance, and collaborated with the team using Git/GitHub.
+Developed responsive UI using HTML, CSS, and JavaScript.
+
+Contributed to React.js dashboard features.
+
+Helped optimise performance.
+
+Collaborated with the team using Git and GitHub.
 
 Testing Experience
 Wrote comprehensive test cases for multiple personal projects.
@@ -39,7 +56,7 @@ Learned to create BDD (Behaviour-Driven Development) scenarios.
 
 Performed manual testing to verify functionality and input validation.
 
-Tested applications across devices and browsers to ensure consistent cross-platform performance.
+Tested applications across devices and browsers for consistent cross-platform performance.
 
 Projects
 Women Self Help Group (SHG)
@@ -58,6 +75,7 @@ Library Book Management
 Tech Stack: Node.js, Express.js
 Full-stack CRUD system for managing library inventory and book issue/return operations.
 
+Skills
 Expertise
 HTML / CSS / JavaScript
 
@@ -97,3 +115,6 @@ Tamil (Native)
 English (Fluent)
 
 Telugu (Conversational)
+
+Developer Note
+Focused on creating reliable, maintainable, and user-friendly applications while continuously improving in modern web development and software testing.
