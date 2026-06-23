@@ -90,15 +90,14 @@ CRUD-based library management system for inventory and issue/return tracking.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaiRagulD&show_icons=true&theme=tokyonight" alt="stats" />
+ ![](https://github-readme-stats.vercel.app/api?username=JaiRagulD&show_icons=true&theme=github_dark&hide_border=true)
+</p>
+<p align="center">
+![](https://github-readme-streak-stats.demolab.com?user=JaiRagulD&theme=github-dark-blue&hide_border=true)
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaiRagulD&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaiRagulD&layout=compact&theme=tokyonight" alt="languages" />
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JaiRagulD&layout=compact&theme=github_dark&hide_border=true)
 </p>
 
 ---
@@ -122,15 +121,15 @@ CRUD-based library management system for inventory and issue/return tracking.
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_URL" target="blank">
+<a href="https://www.linkedin.com/in/jai-ragul-57067b2a3/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
-<a href="YOUR_PORTFOLIO_URL" target="blank">
+<a href="https://jai-ragul.vercel.app/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=vercel" height="40" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:jairaguldhanapal@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 </p>
@@ -141,4 +140,4 @@ CRUD-based library management system for inventory and issue/return tracking.
 
 > "First, solve the problem. Then, write the code."
 
-— John Johnson
+
