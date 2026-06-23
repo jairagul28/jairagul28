@@ -1,96 +1,144 @@
-# Hi, I'm Jai Ragul D 👋
+<h1 align="center">Hi 👋, I'm Jai Ragul</h1>
+<h3 align="center">Web Developer | MERN Stack Developer | Software Tester</h3>
 
-**Web Developer · Software Tester**
+<p align="center">
+  <a href="https://github.com/JaiRagulD">
+    <img src="https://komarev.com/ghpvc/?username=JaiRagulD&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
 
-I build responsive web applications and test software for quality, usability, and reliability. I enjoy creating clean, maintainable projects with modern web technologies while improving my skills in development, debugging, and manual testing.
+---
 
-## About Me
+## 🚀 About Me
 
-- 🎓 B.E. Computer Science student at **NSCET, Theni**
-- 📅 2023–2027 (Expected)
-- 📈 CGPA: **8.1** (5th semester)
-- 💻 Interested in full-stack web development and software testing
-- 🌱 Currently improving my skills in React.js, backend development, testing, and deployment
+💻 Passionate Web Developer and Software Tester
 
-## Tech Stack
+🎓 B.E Computer Science Engineering @ NSCET, Theni
 
-### Languages
+📈 Current CGPA: **8.1**
 
+🌱 Currently learning **Advanced MERN Stack & Software Testing**
 
+🔍 Interested in **Full Stack Development, Testing, and Software Quality Assurance**
 
+⚡ I enjoy building scalable web applications and ensuring software reliability through testing.
 
+---
 
+## 🛠️ Tech Stack
 
-### Frameworks & Tools
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+---
 
+## 📂 Featured Projects
 
+### 👩‍💼 Women Self Help Group (SHG)
+Full-featured MERN platform for managing self-help groups and collaboration among members.
 
+### ⚽ Turf Booking System
+Sports ground booking platform with real-time availability and reservation management.
 
-## Experience
+### 🎬 Movie Ticket Booking
+Responsive movie ticket reservation platform with seat availability tracking.
 
-### Web Development Intern — LITZ TECH, Coimbatore
-**Jul 2025**
-- Built responsive UI using HTML, CSS, and JavaScript.
-- Contributed to React.js dashboard features.
-- Helped optimize performance and collaborated using Git and GitHub.
+### 📚 Library Book Management
+CRUD-based library management system for inventory and issue/return tracking.
 
-## Testing Experience
+---
 
-- Wrote test cases for personal projects.
-- Learned BDD (Behavior-Driven Development) scenario creation.
-- Performed manual testing for functionality and input validation.
-- Tested across devices and browsers for cross-platform consistency.
+## 🧪 Software Testing Skills
 
-## Projects
+✔ Manual Testing
 
-### Women Self Help Group (SHG)
-Full-featured MERN platform for efficient SHG management and collaboration among group members.
+✔ Test Case Design
 
-**Tech:** MERN Stack
+✔ Bug Reporting
 
-### Turf Booking
-Web-based platform that enables users to search, reserve, and manage sports grounds with real-time availability.
+✔ Cross Browser Testing
 
-**Tech:** Node.js, MongoDB
+✔ Functional Testing
 
-### Movie Ticket Booking
-Responsive platform for booking movie tickets with real-time show and seat availability across multiple theatres.
+✔ Input Validation Testing
 
-**Tech:** React.js, Node.js
+✔ BDD Scenario Creation
 
-### Library Book Management
-Full-stack CRUD system for managing library inventory and book issue/return operations.
+---
 
-**Tech:** Node.js, Express.js
+## 📊 GitHub Statistics
 
-## Strengths
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JaiRagulD&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
 
-- Communication
-- Time Management
-- Adaptability
-- Manual Testing
-- Bug Reporting
-- Clean and maintainable development
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaiRagulD&theme=tokyonight" alt="streak" />
+</p>
 
-## Languages Known
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaiRagulD&layout=compact&theme=tokyonight" alt="languages" />
+</p>
 
-- Tamil — Native
-- English — Fluent
-- Telugu — Conversational
+---
 
-## Connect With Me
+## 📈 Contribution Graph
 
-- 📧 Email: add-your-email@example.com
-- 💼 LinkedIn: add-your-linkedin-url
-- 💻 GitHub: add-your-github-url
-- 🌐 Portfolio: add-your-portfolio-url
-- 📱 Phone: +91-9043624840
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaiRagulD&theme=tokyo-night" />
+</p>
 
-***
+---
 
-> Replace the placeholder links above with your actual email, LinkedIn, GitHub, and portfolio links before uploading this as the `README.md` in your special GitHub profile repository.
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JaiRagulD&theme=tokyonight&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="YOUR_LINKEDIN_URL" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="YOUR_PORTFOLIO_URL" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=vercel" height="40" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+</p>
+
+---
+
+### 💡 Quote
+
+> "First, solve the problem. Then, write the code."
+
+— John Johnson
