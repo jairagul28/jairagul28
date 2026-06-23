@@ -1,120 +1,96 @@
-Hi, I'm Jai Ragul D
-Web Developer · Software Tester
+# Hi, I'm Jai Ragul D 👋
 
-A passionate developer focused on building responsive web applications and improving software quality through clean development practices and manual testing.
+**Web Developer · Software Tester**
 
-About Me
-Pursuing B.E. Computer Science at NSCET, Theni.
+I build responsive web applications and test software for quality, usability, and reliability. I enjoy creating clean, maintainable projects with modern web technologies while improving my skills in development, debugging, and manual testing.
 
-Expected graduation: 2027.
+## About Me
 
-Current CGPA: 8.1.
+- 🎓 B.E. Computer Science student at **NSCET, Theni**
+- 📅 2023–2027 (Expected)
+- 📈 CGPA: **8.1** (5th semester)
+- 💻 Interested in full-stack web development and software testing
+- 🌱 Currently improving my skills in React.js, backend development, testing, and deployment
 
-Interested in full-stack development, testing, and building user-friendly software.
+## Tech Stack
 
-Contact
-Phone: +91-9043624840
+### Languages
 
-Email: Mail
 
-LinkedIn: Linkedin
 
-GitHub: Github
 
-Portfolio: Portfolio
 
-Profile
-A Web Developer and Software Tester with strong knowledge of building responsive web applications and ensuring quality through manual testing. Skilled in HTML, CSS, JavaScript, backend development, test case design, and bug reporting. Passionate about delivering reliable and user-friendly software with clean, maintainable code.
 
-Education
-B.E. Computer Science
-NSCET, Theni
-2023 – 2027 (Expected)
-CGPA: 8.1 (5th sem)
+### Frameworks & Tools
 
-HSC
-Mary Matha Matric School, Theni
-2023 76%
 
-Experience
-Web Development Intern
-LITZ TECH, Coimbatore
-Jul 2025
 
-Developed responsive UI using HTML, CSS, and JavaScript.
 
-Contributed to React.js dashboard features.
 
-Helped optimise performance.
 
-Collaborated with the team using Git and GitHub.
 
-Testing Experience
-Wrote comprehensive test cases for multiple personal projects.
 
-Learned to create BDD (Behaviour-Driven Development) scenarios.
 
-Performed manual testing to verify functionality and input validation.
+## Experience
 
-Tested applications across devices and browsers for consistent cross-platform performance.
+### Web Development Intern — LITZ TECH, Coimbatore
+**Jul 2025**
+- Built responsive UI using HTML, CSS, and JavaScript.
+- Contributed to React.js dashboard features.
+- Helped optimize performance and collaborated using Git and GitHub.
 
-Projects
-Women Self Help Group (SHG)
-Tech Stack: MERN Stack
+## Testing Experience
+
+- Wrote test cases for personal projects.
+- Learned BDD (Behavior-Driven Development) scenario creation.
+- Performed manual testing for functionality and input validation.
+- Tested across devices and browsers for cross-platform consistency.
+
+## Projects
+
+### Women Self Help Group (SHG)
 Full-featured MERN platform for efficient SHG management and collaboration among group members.
 
-Turf Booking
-Tech Stack: Node.js, MongoDB
-Web-based platform enabling users to search, reserve, and manage sports grounds efficiently with real-time availability.
+**Tech:** MERN Stack
 
-Movie Ticket Booking
-Tech Stack: React.js, Node.js
+### Turf Booking
+Web-based platform that enables users to search, reserve, and manage sports grounds with real-time availability.
+
+**Tech:** Node.js, MongoDB
+
+### Movie Ticket Booking
 Responsive platform for booking movie tickets with real-time show and seat availability across multiple theatres.
 
-Library Book Management
-Tech Stack: Node.js, Express.js
+**Tech:** React.js, Node.js
+
+### Library Book Management
 Full-stack CRUD system for managing library inventory and book issue/return operations.
 
-Skills
-Expertise
-HTML / CSS / JavaScript
+**Tech:** Node.js, Express.js
 
-React.js
+## Strengths
 
-Node.js & Express.js
+- Communication
+- Time Management
+- Adaptability
+- Manual Testing
+- Bug Reporting
+- Clean and maintainable development
 
-MongoDB
+## Languages Known
 
-Manual Testing
+- Tamil — Native
+- English — Fluent
+- Telugu — Conversational
 
-Python / C
+## Connect With Me
 
-Git & GitHub
+- 📧 Email: add-your-email@example.com
+- 💼 LinkedIn: add-your-linkedin-url
+- 💻 GitHub: add-your-github-url
+- 🌐 Portfolio: add-your-portfolio-url
+- 📱 Phone: +91-9043624840
 
-Postman / Vercel
+***
 
-Tools
-Git & GitHub
-
-VS Code
-
-Postman
-
-Vercel
-
-Soft Skills
-Communication
-
-Time Management
-
-Adaptability
-
-Languages
-Tamil (Native)
-
-English (Fluent)
-
-Telugu (Conversational)
-
-Developer Note
-Focused on creating reliable, maintainable, and user-friendly applications while continuously improving in modern web development and software testing.
+> Replace the placeholder links above with your actual email, LinkedIn, GitHub, and portfolio links before uploading this as the `README.md` in your special GitHub profile repository.
