@@ -1,86 +1,99 @@
-# Hi, I'm Jai Ragul 👋
+Jai Ragul D
+Web Developer · Software Tester
 
-**💻 Full Stack Developer | 🎓 Computer Science Student (NSCET, Theni)**  
-Motivated CS student with a strong foundation in frontend development, full-stack basics, and hands-on project experience in building responsive web applications.
+Contact
+Phone: +91-9043624840
 
-- 🌱 Currently pursuing **B.E. Computer Science and Engineering** at **NSCET, Theni (2023–2027)**, CGPA: **8.1** (up to 4th semester).  
-- 💼 **Web Development Intern** at **LITZ TECH, Coimbatore** (Jul 2025).  
-- 📍 **Location:** Theni, Tamil Nadu, India.  
+Email: Mail
 
----
+LinkedIn: Linkedin
 
-## 🔧 Tech Stack
+GitHub: Github
 
-### 🧾 Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+Portfolio: Portfolio
 
-### 🎨 Frontend & Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+Profile
+A Web Developer and Software Tester with strong knowledge of building responsive web applications and ensuring quality through manual testing. Skilled in HTML, CSS, JavaScript, backend development, test case design, and bug reporting. Passionate about delivering reliable and user-friendly software with clean, maintainable code.
 
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+Education
+B.E. Computer Science
+NSCET, Theni
+2023 – 2027 (Expected)
+CGPA: 8.1 (5th sem)
 
-### ✅ Testing & Other Skills
-- 📝 Manual test case writing  
-- 🧪 BDD basics  
-- 📱💻 Cross-browser & device testing  
+HSC
+Mary Matha Matric School, Theni
+2023 76%
 
----
+Experience
+Web Development Intern
+LITZ TECH, Coimbatore
+Jul 2025
 
-## 🚀 Featured Projects
+Worked on responsive UI development using HTML, CSS, and JavaScript. Contributed to React.js dashboard features, optimised performance, and collaborated with the team using Git/GitHub.
 
-- 💰 **Expense Tracker** – Budget management web app to track daily expenses.  
-  🔗 GitHub: https://github.com/jairagul28/ExpenseTracker.git  
+Testing Experience
+Wrote comprehensive test cases for multiple personal projects.
 
-- 📋 **Task Manager** – Real-time collaboration task management system.  
-  🔗 GitHub: https://github.com/jairagul28/ExpenseTracker.git  
+Learned to create BDD (Behaviour-Driven Development) scenarios.
 
-- 📚 **Library Book Management** – Full-stack CRUD system using Node.js & Express.js.  
-  🔗 GitHub: https://github.com/jairagul28/Library-Book-Management.git  
+Performed manual testing to verify functionality and input validation.
 
-- 🎟️ **Movie Ticket Booking** – Seat selection and booking interface for movies.  
-  🔗 GitHub: https://github.com/jairagul28/movie-ticket-booking.git  
+Tested applications across devices and browsers to ensure consistent cross-platform performance.
 
-- ☕ **Cafe Website** – Responsive cafe site with table reservation.  
-  🔗 GitHub: https://github.com/jairagul28/coffee-shop-table-reservation.git  
+Projects
+Women Self Help Group (SHG)
+Tech Stack: MERN Stack
+Full-featured MERN platform for efficient SHG management and collaboration among group members.
 
-- 🏏 **Turf Booking** – Interactive turf slot booking UI.  
-  🔗 GitHub: https://github.com/jairagul28/turf-booking.git  
+Turf Booking
+Tech Stack: Node.js, MongoDB
+Web-based platform enabling users to search, reserve, and manage sports grounds efficiently with real-time availability.
 
----
+Movie Ticket Booking
+Tech Stack: React.js, Node.js
+Responsive platform for booking movie tickets with real-time show and seat availability across multiple theatres.
 
-## 🧪 Testing Experience
+Library Book Management
+Tech Stack: Node.js, Express.js
+Full-stack CRUD system for managing library inventory and book issue/return operations.
 
-- 📝 Wrote manual test cases for projects and created basic BDD scenarios.  
-- 🔍 Performed manual testing for functionality, input validation, and UI behavior.  
-- 📱💻 Tested applications across multiple devices and browsers for consistent performance.  
+Expertise
+HTML / CSS / JavaScript
 
----
+React.js
 
-## 🎓 Education
+Node.js & Express.js
 
-- 🎓 **B.E. Computer Science and Engineering** – NSCET, Theni (2023–2027)  
-  - 📊 CGPA: **8.1** (up to 4th semester)  
-- 🏫 **HSC** – Mary Matha Matric School, Theni (2023) – **76%**  
+MongoDB
 
----
+Manual Testing
 
-## 📫 Connect with Me
+Python / C
 
-- 📞 **Phone:** 9043624840  
-- 📧 **Email:** `jairaguldhanapal@gmail.com`  
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/-jai-ragul-57067b2a3  
-- 🐙 **GitHub:** https://github.com/jairagul28  
+Git & GitHub
 
-<!--
-Profile ideas:
-- Add GitHub stats cards (commits, languages) once you have more public activity.
-- Add pinned repositories for your best projects.
--->
+Postman / Vercel
+
+Tools
+Git & GitHub
+
+VS Code
+
+Postman
+
+Vercel
+
+Soft Skills
+Communication
+
+Time Management
+
+Adaptability
+
+Languages
+Tamil (Native)
+
+English (Fluent)
+
+Telugu (Conversational)
